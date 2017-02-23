@@ -1,2 +1,8 @@
 # gulp
-Gulp repo
+
+## Usage
+
+``` bash
+$ npm install
+```
+
